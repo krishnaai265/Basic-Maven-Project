@@ -32,5 +32,5 @@ Maven is a powerful project management tool that is based on POM (project object
 
 **Created by:** <br/>
 **Name: Krishna Kumar Singh** <br/>
-**Email: krishna_singh1@epam.com** <br/>
+**Email: krishnaai265@gmail.com** <br/>
 **Phone: +91-9368754996** 
